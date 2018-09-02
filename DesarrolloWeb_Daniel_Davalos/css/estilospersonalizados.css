@@ -1,0 +1,38 @@
+
+.menu{
+	margin: 10px;
+}
+.slogan
+{
+	font-size: 5em;
+}
+.redes
+{
+	margin: 5px 5px 50px 5px;
+}
+.etiqueta
+{
+	border-radius: 15px;
+	margin:10px;
+}
+@media (max-width:900px) {
+	#logo
+	{
+		width: 100%;
+	}
+	.slogan
+	{
+		font-size: 2em
+	}
+	.menu
+	{
+		width: 5%;
+		margin: 1px;
+
+	}
+	.blog
+	{
+		width: 100%
+	}
+}
+
